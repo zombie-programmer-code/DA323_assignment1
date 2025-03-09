@@ -56,7 +56,7 @@ The project is divided into multiple datasets and tasks:
   Available in the `scraped_articles` folder.
 
 - **Radio Recordings**:  
-  Found in the `radio_recording` folder.
+  Found in the `radio_recordings` folder.
 
 - **National Anthems & Flags**:
   - **Flags**: In the `png_flags` folder (extracted from [nationalanthems.info](https://nationalanthems.info/)).
